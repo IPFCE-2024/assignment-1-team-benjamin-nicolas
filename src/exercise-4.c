@@ -14,6 +14,7 @@ int main() {
     if (x > y)
     {
         max = x;
+        //hi
     }
     else if (y > x)
     {
